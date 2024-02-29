@@ -6,14 +6,14 @@
 
 <div>
   <h2>
-    Projeto
+    📚 Projeto
   </h2>
   Projeto criado em Python para exibir gráficos com informações de 5 criptomoedas
 </div>
 
 <div>
   <h2>
-    Tecnologias
+    🔧 Tecnologias
   </h2>
   
 - Python
